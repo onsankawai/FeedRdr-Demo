@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FeedRdr</string>
+    <string name="app_label">FeedRdr</string>
+    <string name="search_hint">Search latest news</string>
+
+    <string name="action_search">Search</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">注目</string>
+    <string name="title_section2">ワールド</string>
+    <string name="title_section3">ビジネス</string>
+    <string name="title_section4">テック</string>
+    <string name="title_section5">カラダ</string>
+
+    <string name="datasrc_url">http://intense-pier-94504.appspot.com/getThreadsByCat</string>
+    <string name="comment_url">http://intense-pier-94504.appspot.com/getCommentsByThread</string>
+    <string name="add_comment_url">http://intense-pier-94504.appspot.com/postComment</string>
+    <string name="update_comment_url">http://intense-pier-94504.appspot.com/updateComment</string>
+    <string name="datasrc_section1">http://feeds.bbci.co.uk/news/rss.xml</string>
+    <string name="datasrc_section2">http://feeds.bbci.co.uk/news/world/rss.xml</string>
+    <string name="datasrc_section3">http://feeds.bbci.co.uk/news/business/rss.xml</string>
+    <string name="datasrc_section4">http://feeds.bbci.co.uk/news/technology/rss.xml</string>
+    <string name="datasrc_section5">http://feeds.bbci.co.uk/news/health/rss.xml</string>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_grey">#D8D8D8</color>
+    <color name="dark_grey_t">#883C3C3C</color>
+
+    <string name="sign_in_msg">Sign in FeedRdr Now!</string>
+    <string name="title_activity_login">Sign In FeedRdr</string>
+
+    <string name="add_comment">Add a comment</string>
+
+</resources>
